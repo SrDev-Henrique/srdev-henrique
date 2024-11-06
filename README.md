@@ -80,7 +80,7 @@ Me chamo Henrique Albuquerque da Silva, tenho 24 anos e sou natural de Campinas/
   />
 
 <img 
-      align="right" 
+      align="top-right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdev-henrique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
