@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique Albuquerque da Silva, tenho 24 anos e sou natural de Campinas/SP. Atualmente, estou cursando Desenvolvimento Full Stack na EBAC, e sou apaixonado por tecnologia e programação. Atuo como desenvolvedor full-stack, criando projetos web desde a fase de planejamento e design até a resolução de problemas reais com código. Prezo pelo visual e pela usabilidade dos meus sistemas, garantindo que cada projeto entregue a melhor experiência para os usuários. Além disso, compartilho meu conhecimento e minhas criações através dos meus projetos pessoais, sempre buscando aprimorar minhas habilidades e contribuir para o mundo digital.
+Me chamo Henrique Albuquerque da Silva e tenho 24 anos. Atuo como desenvolvedor full-stack, criando projetos web desde a fase de planejamento e design até a resolução de problemas reais com código. Prezo pelo visual e pela usabilidade dos meus sistemas, garantindo que cada projeto entregue a melhor experiência para os usuários. Além disso, compartilho meu conhecimento e minhas criações através dos meus projetos pessoais, sempre buscando aprimorar minhas habilidades e contribuir para o mundo digital.
 
 ---
 
