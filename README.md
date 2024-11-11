@@ -50,6 +50,14 @@ Me chamo Henrique Albuquerque da Silva e tenho 24 anos. Atuo como desenvolvedor 
 />
 <img 
     align="left" 
+    alt="Gulp" 
+    title="Gulp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
